@@ -1,4 +1,4 @@
-## ℹ️ Infomation
+## ℹ️ Information
 <img src="https://img.shields.io/badge/dsagom@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dsagom@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
 🖐️ Hi There! I'm full stack Developer <br/> 
