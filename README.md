@@ -1,4 +1,15 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=FF7800&logoColor=FF7800"/></a>
+## ℹ️ Infomation
+<img src="https://img.shields.io/badge/dsagom@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dsagom@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+
+🖐️ Hi There! I'm full stack Developer <br/> 
+I mainly develop using Java <br/>
+
+I enjoy gaming,singing,coding and traveling.<br/>
+I think being a developer is a difficult but rewarding job !<br/>
+
+Fighting everyone !
+
+![ضحكصورGIF](https://github.com/HyunDove/HyunDove/assets/139856413/24309644-b926-4221-8f4e-bc8ba79f74ca)
 
 ## 🧑‍💻 Skills
 **Platforms & Languages** <br/><br/>
