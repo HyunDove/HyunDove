@@ -1,15 +1,16 @@
 ## ℹ️ Information
 <img src="https://img.shields.io/badge/dsagom@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dsagom@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-🖐️ Hi There! I'm full stack Developer <br/> 
+🖐️ Hi There! I'm full stack Developer with 4 years of experience <br/> 
 I mainly develop using Java <br/>
+enjoy gaming,singing,coding and traveling.<br/>
 
-I enjoy gaming,singing,coding and traveling.<br/>
 I think being a developer is a difficult but rewarding job !<br/>
 
 Fighting everyone !
 
-![ضحكصورGIF](https://github.com/HyunDove/HyunDove/assets/139856413/24309644-b926-4221-8f4e-bc8ba79f74ca)
+![ThumbsUpOkayGIF](https://github.com/HyunDove/HyunDove/assets/139856413/a3a94639-f5c4-4444-8ab7-56cdeb620521)
+
 
 ## 🧑‍💻 Skills
 **Platforms & Languages** <br/><br/>
